@@ -5,3 +5,4 @@ Hello Harvey!
 Hello Harvey! master test
 Hello Harvey! hot-fix test
 Harvey edit offline
+Harvey edit offline twice
